@@ -1,0 +1,20 @@
+{
+  "name": "addressbook",
+  "version": "1.0.0",
+  "description": "addressbook program",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('check check');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://disruptiveworkshop.visualstudio.com/dev/_git/addressbook.git"
+  },
+  "keywords": [
+    "address",
+    "note",
+    "javascript"
+  ],
+  "author": "michael williams, mark falquez",
+  "license": "MIT"
+}
